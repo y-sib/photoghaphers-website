@@ -1,0 +1,37 @@
+#modal-tel {
+border: solid 1px black;
+padding: 20px;
+background-color: white;
+width:30%;
+margin:10%;
+min-width:300px;
+border-radius: 5px;
+}
+
+#modal-tel2 {
+border: solid 1px black;
+padding: 20px;
+background-color: white;
+width:30%;
+margin:10%;
+min-width:300px;
+border-radius: 5px;
+}
+
+.formazapis {
+margin-top:10%;
+}
+
+.formaclose {
+position: absolute;
+top: 5px;
+right: 5px;
+}
+
+.ftextlg1 {
+height: 50px;
+}
+
+.ftextlg2 {
+height: 70px;
+}
